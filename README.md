@@ -33,3 +33,4 @@
 |class 3| [Big O notation](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-03/README.md)
 |class 4| [File && Exceptions](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-04/README.md)
 |class 5| [OPP](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-05/README.md)
+|class 6| [Risk Analysis && Software Design](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-06/README.md)
