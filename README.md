@@ -34,3 +34,4 @@
 |class 4| [File && Exceptions](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-04/README.md)
 |class 5| [OPP](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-05/README.md)
 |class 6| [Risk Analysis && Software Design](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-06/README.md)
+|class 7| [numPy](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-07/README.md)
