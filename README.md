@@ -35,3 +35,5 @@
 |class 5| [OPP](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-05/README.md)
 |class 6| [Risk Analysis && Software Design](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-06/README.md)
 |class 7| [numPy](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-07/README.md)
+|class 8| [Linked List](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-08/README.md)
+|class 9| [Pandas](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-09/README.md)
