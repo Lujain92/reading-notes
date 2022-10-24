@@ -38,3 +38,4 @@
 |class 8| [Linked List](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-08/README.md)
 |class 9| [Pandas](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-09/README.md)
 |class 10| [Linear Regression](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-10/README.md)
+|class 11| [Data Visualization](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-11/README.md)
