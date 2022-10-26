@@ -39,3 +39,4 @@
 |class 9| [Pandas](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-09/README.md)
 |class 10| [Linear Regression](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-10/README.md)
 |class 11| [Data Visualization](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-11/README.md)
+|class 12| [Stack and queue](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-12/README.md)
