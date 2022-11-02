@@ -2,7 +2,7 @@
 **Trees** are non-linear data structures that represent nodes connected by edges. Each tree consists of a root node as the Parent node, and the left node and right node as Child nodes.
 
 **Binary tree** tree whose elements have at most two children is called a binary tree. Each element in a binary tree can have only two children. A node’s left child must have a value less than its parent’s value, and the node’s right child must have a value greater than its parent value.
-![tree](https://www.educative.io/cdn-cgi/image/f=auto,fit=contain,w=1800/api/edpresso/shot/5246936836734976/image/5140072329379840.png)
+![tree](https://cdn.programiz.com/sites/tutorial2program/files/tree_0.png)
 
 
 ## Implementation
