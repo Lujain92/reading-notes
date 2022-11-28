@@ -46,3 +46,4 @@
 |class 16| [Cryptography](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-16/README.md)
 |class 17| [Automation](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-17/README.md)
 |class 18| [Django](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-18/README.md)
+|class 19| [Django model ](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-19/README.md)
