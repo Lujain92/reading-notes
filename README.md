@@ -48,3 +48,4 @@
 |class 18| [Django](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-18/README.md)
 |class 19| [Django model ](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-19/README.md)
 |class 20| [Django CRUD ](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-20/README.md)
+|class 21| [Django CustomUser](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-21/README.md)
