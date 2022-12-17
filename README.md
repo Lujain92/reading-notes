@@ -53,3 +53,4 @@
 |class 23| [Docker](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-23/README.md)
 |class 24| [permission and Postgres ](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-24/README.md)
 |class 25| [graph](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-25/README.md)
+|class 26| [Authentication](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-26/README.md)
