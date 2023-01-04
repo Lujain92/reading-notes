@@ -57,3 +57,6 @@
 |class 27| [Deployment](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-27/README.md)
 |class 28| [React review](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-28/README.md)
 |class 29| [next.js](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-29/README.md)
+|class 30| [Next form](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-30/README.md)
+|class 31| [API CONTEXT](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-31/README.md)
+
