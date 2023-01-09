@@ -59,4 +59,6 @@
 |class 29| [next.js](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-29/README.md)
 |class 30| [Next form](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-30/README.md)
 |class 31| [API CONTEXT](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-31/README.md)
+ |class 32| [autho](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-32/README.md)
+|class 33| [fetch data](https://github.com/Lujain92/reading-notes/blob/main/code-401-python/class-33/README.md)
 
